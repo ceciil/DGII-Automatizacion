@@ -1,0 +1,5 @@
+behave
+playwright
+allure-behave
+# Para informes HTML si usas behave-html-formatter (alternativa a Allure)
+# behave-html-formatter
